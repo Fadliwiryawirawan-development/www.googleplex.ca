@@ -1,3 +1,6 @@
+
+<img width="1829" height="850" alt="logo-304-unodc" src="https://github.com/user-attachments/assets/1cb3c55a-e27c-4e14-95a5-faa1d05f897e" />
+
 # STATMENT
 # BAHWASANYA INI ADALAH KALIMAT PERNYATAAN , BUKAN ANTOONIM MAUPUN SYNONIM KATA PROSAKATA DAN KOSAKATA , DAN BUKAN PULA AKRONIM INI ADALAH KALIMAT AKTIF BERTUJUAN KEPADA S P K , SUBJEK PREDIKAT KETERANGAN DAN HASIL KEPADA TITIK OBJEK 
 # kami meminta tidak akan  putus hubungan kinerja kebijakan dengan kepemerintahan JIKA pemerintah belum mengubah situasi atas pekerja sosial dan internet dengan situasi normal , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
