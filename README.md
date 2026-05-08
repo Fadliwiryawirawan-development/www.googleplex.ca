@@ -147,16 +147,14 @@ I can give you a step-by-step setup or even code examples.
 
 
 
-![wiryamyuts](https://github.com/user-attachments/assets/03c90e9c-9acc-46af-bb86-1092fbe2681f)
 # AKU SUDAH MENJADI ELANG MESKI ADA SESUATU YANG INGIN BERUSAHA MENJADIKANKU AYAM KALKUN - NAMUN TIDAK TERSAMPAIKAN 
 # google-terafoms
 # Coding Interview University
 # Tidak Akan ada keterlibatan kinerja pekerjaan dengan problematik sosial hormonis , keharmonisan dibentuk karena keterkaitan hubungan sakral free singel to say finishment problematic women dont sign grow , ected attitude shaw google and microsoft 
-<img width="827" height="542" alt="logo-chrome" src="https://github.com/user-attachments/assets/bfbeef30-46ef-46c7-b11e-170dea5896e3" />
 
 #PENYETOPAN PEMBERIAN KEUANAGAN POLEMIK ATAU PENUKARANG UANG BERUPA VIDEO KEBERSAMAAN , FOTO , MAUPUN VOICE REKAMAN SPYING UNTUK MELAKUKAN SUATU TINDAK INTIMIDASI , PASAL 2012 , 2013 TINDAK PIDANA PENIPUAN ONLINE BERBASIS CHATING MAUPUN REKAMAN SUARA , DENDA SESUAI UNDANG UNDANG BERLAKU , MELAKUKAN PEMBERIAN JANJI PALSU DENGAN METODE SUARA HUKUM MATI , APALAGI JIKA TIDAK TERDAFTAR BEKERJA DIPERUSAHAAN TERKAIT , GOOGLE MICROSOFT UNDP, WHO , UNICEF , UNODC , TERIMAKASIH BACA NOTIF INI BAGI INDONESIA BAHKAN MALAYSIA , JIKA ADAFTIF MASIH MELAKUKAN PENAMAAN TEBUS ADMIN , MAKA TARIK LISAN LONTARAN ITU KAMI AKAN MELAKUKAN SIPING AIRCRAFT ATAS DEFENSE , PEMBLOKADE OPERASIONAL , DEMI MENJALANKAN TUGAS , INTERAKTIF INC 
+<img width="3456" height="4608" alt="IMG_20260509_030318" src="https://github.com/user-attachments/assets/93dc3cb0-7364-4804-84f1-a5a9cb97e01c" />
 
-![bukti sebelum dihapus komentar](https://github.com/user-attachments/assets/8ecfd799-3119-468b-9443-ed22ba550233)
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
