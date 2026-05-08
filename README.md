@@ -3,23 +3,6 @@
 
 # STATMENT
 
-# Checkpoint-Computer -Description "https://play.google.com/store/apps/details?id=com.shopee.id&hl=en-id" -RestorePointType APPLICATION_UNINSTALL -Debug   Checkpoint-Computer : Access denied At line:1 char:1
-
-# Checkpoint-Computer -Description "https://play.google.com/store/apps/ ...
-
-CategoryInfo : InvalidOperation: (:) [Checkpoint-Computer], Management Exception
-FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands .CheckpointComputerCommand
-# Checkpoint-Computer -Description "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en-US" -RestorePointType APPLICATION_UNINSTALL -Debug Checkpoint-Computer : Access denied At line:1 char:1
-
-# Checkpoint-Computer -Description "https://play.google.com/store/apps/ ...
-
-CategoryInfo : InvalidOperation: (:) [Checkpoint-Computer], Management Exception
-FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands .CheckpointComputerCommand
-Checkpoint-Computer -Description https://fadliwiryawirawan@google.com/ -RestorePointType CANCELLED_OPERATION
-
-
-
-
 #I attach this. No one claiming to be my fiancé or boyfriend is unreasonable if they hinder my work success. From the start, I suspect the government of my country, Indonesia. I envy the performance of disciplined countries like Singapore and China. China is a country with a majority anti-corruption discipline. The government's mistake in trapping companies that only benefit the community would be much better. Please inform the team. Decide on funding for them. Acknowledging themselves as something that once lived with you. In fact, I parted ways with a heart that was willing if it was just a temporary date. Thank you, team. Do you know what I mean by the prologue sentence above? It is a form of morality in life. It is truly difficult to work together to create together in a team even though hundreds of kilometers away in a country very far from Langsa.
 
 There is no development arrangement in an irrational way and no responsibility on behalf of the wife and fiancé.
