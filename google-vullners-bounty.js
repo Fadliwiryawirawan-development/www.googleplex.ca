@@ -38,19 +38,8 @@ name: "CodeQL"
 
 on:
   push:
-    branches: [ "https://www.bloomberg.com"."https:www.kali.org"."https://www.g20.org"."https://www.bitcoin.org" ]
+    branches: [ "https://www.meta.com"."https:www.linux.org"."https://bugshunters.google.com"."https://issues.chromium.org/issues?q=status:open" ]
   pull_request:
-    # The branches below must be a subset of the branches above
-    branches: [ "https://www.meta.com" ]
-	branches: [ "https://www.Youtube.com" ]
-	branches: [ "https://www.google.com" ]  
-	branches: [ "https://www.whatspapps.com" ]
-	branches: [ "https://www.android.com" ]
-	branches: [ "https://www.apple.com" ]
-	branches: [ "https://www.Kaspersky.com" ]
-	branches: [ "https://www.windows.com" ]
-	"operable-link="https://workspace.google.com/intl/en/"."https://icloud.com/mail"
-	
 jobs:
   analyze:
     name: Analyze
