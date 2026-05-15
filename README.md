@@ -13,7 +13,7 @@ There is no development arrangement in an irrational way and no responsibility o
 Scale development is a minority party in social policy according to program regulations determined diplomatically, nor is it negotiating in ACT, rapid response action in religious diversity worship, we declare. It is legitimate if it happens within a week, then we will summon the largest convicted corruption suspect, namely the president of the country's social position, he is a social behavior in carrying out the three mandates of the state, according to national law, according to the law of "religious" worship, according to the law of social biology in medicine,
 to VIP remote workers, WFH to permanent workers "employees" /
 
-
+# https://bughunters.google.com/about/rules/chrome-friends/chrome-vulnerability-reward-program-rules
 # sebetulnya penghinat bangsa itu siapa dan apa tujuan bermasyarakat apa tujuan menumbuhkan ekonomi dan sejauh mana bertahan hidup !! 
 
 # It looks like you’re referring to **“source code services vulnerabilities (Vulners) complete”**, but the phrasing is a bit unclear. I’ll break down the likely meaning and give you a useful, complete overview.
